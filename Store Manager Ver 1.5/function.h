@@ -1,0 +1,10 @@
+#include "datatype.h"
+void showCategories();
+void addCategory();
+void showMenu();
+void editCategory();
+void deleteCategory();
+void findCategory();
+void saveCategories(); 
+void loadCategories();
+void returnMenu();
